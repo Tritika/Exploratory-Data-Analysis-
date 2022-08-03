@@ -36,3 +36,13 @@ We conclude our project by consolidating all interpretations in a finite set of 
 18.	Which are the top 5 gangs, attack type and target type identified within India?
 19.	Which cities have the highest number of kills and what are the groups responsible?
 20.	What is the shift in the state of terrorism in India?
+
+
+### Following were revealed as a result of our analysis:
+1. Regions Middle East & North Africa and South Asia have suffered brutally as a result increased bombings and explosions between 2010 and 2016.
+2. Terrorist groups Islamic State of Iraq and the Levant (ISIL), Taliban, and Boko Haram have been identified as top 3 gangs responsible for majority of activities during this period.
+3. While the countries like Estonia, Croatia, Morocco, Latvia have experienced not more than 2 activities, the state of terror remains of concern in Iraq, Pakistan, Afghanistan and India.
+4. There is more way more successful attacks than failed attacks.If the attack is successful then “Hostage taking” has the highest number of kills while more are wounded during hijacking
+5. We can see that mainly “Explosives” are used for “POLITICAL, ECONOMIC, RELIGIOUS, OR SOCIAL GOAL” the most.While ”Firearms” are mainly used for “OUTSIDE INTERNATIONAL HUMANITARIAN LAW” 
+
+<span style="color:'CBC4C2';">[You can also refer to the .pptx file for the summary of our work.]</span>
