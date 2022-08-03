@@ -45,4 +45,4 @@ We conclude our project by consolidating all interpretations in a finite set of 
 4. There is more way more successful attacks than failed attacks.If the attack is successful then “Hostage taking” has the highest number of kills while more are wounded during hijacking
 5. We can see that mainly “Explosives” are used for “POLITICAL, ECONOMIC, RELIGIOUS, OR SOCIAL GOAL” the most.While ”Firearms” are mainly used for “OUTSIDE INTERNATIONAL HUMANITARIAN LAW” 
 
-<span style="color:'CBC4C2';">[You can also refer to the .pptx file for the summary of our work.]</span>
+[You can also refer to the .pptx file for the summary of our work.]
