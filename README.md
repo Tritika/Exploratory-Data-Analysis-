@@ -5,9 +5,9 @@ Lack of understanding and awareness about global terrorism leads to diverse opin
 
 During preliminary analysis, we noted a sharp rise in activities from 2011-2014 and a slight decrease followed. This pattern got us curiously interested and so we narrowed our time period of analyses to 2010 and beyond. Nevertheless, the main objective is to visualize the Global Terrorism Dataset (GTD) so that it can be useful for common man to understand the impact of various terrorist activities. Results from analyses as ours shall enable organizations and individuals to improve awareness of the severity of global terrorism, and also provide a reliable reference for counterterrorism initiatives. 
 
-<b>I</b> Quantitative analysis of global terrorist activities and various attributes such as time, location and terrorist organizations involved in the activities
-<b>II</b>  Data pre-processing, including data cleaning (such as missing value processing and data conversion), feature selection, and data splitting to treat missing              values row-wise.
-<b>III</b> Visual analysis on the cleaned dataset producing several visualizations interpreted seeking answers to various questions posed at the beginning of the                    analysis. 
+<b>I</b> Quantitative analysis of global terrorist activities and various attributes such as time, location and terrorist organizations involved in the activities <br/>
+<b>II</b>  Data pre-processing, including data cleaning (such as missing value processing and data conversion), feature selection, and data splitting to treat missing              values row-wise.<br/>
+<b>III</b> Visual analysis on the cleaned dataset producing several visualizations interpreted seeking answers to various questions posed at the beginning of the                    analysis. <br/>
 We conclude our project by consolidating all interpretations in a finite set of results.
 
 
