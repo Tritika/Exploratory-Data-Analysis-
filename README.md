@@ -10,9 +10,7 @@ During preliminary analysis, we noted a sharp rise in activities from 2011-2014 
 <b>III</b> Visual analysis on the cleaned dataset producing several visualizations interpreted seeking answers to various questions posed at the beginning of the                    analysis. <br/>
 We conclude our project by consolidating all interpretations in a finite set of results.
 
-
 ### Questions posed are as follows:
-
 #### Exploring the state of terrorism in the World 
 1.	What is the trend of activities over the years? 
 2.	Which are the top 10 deadliest gangs? 
@@ -37,6 +35,10 @@ We conclude our project by consolidating all interpretations in a finite set of 
 19.	Which cities have the highest number of kills and what are the groups responsible?
 20.	What is the shift in the state of terrorism in India?
 
+### Contribution of each collaborator:
+<b>Tritika: </b> region-wise analysis<br/>
+<b>[Vishal-rao](https://github.com/vishal-rao/GTD-EDA): </b> attack-wise analysis<br/>
+<b>[VSManasi](https://github.com/VSManasi/Global-Terrorism-Database-EDA-project): </b> gang-wise analysis<br/>
 
 ### Following were revealed as a result of our analysis:
 1. Regions Middle East & North Africa and South Asia have suffered brutally as a result increased bombings and explosions between 2010 and 2016.
