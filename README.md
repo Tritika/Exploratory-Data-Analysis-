@@ -36,9 +36,9 @@ We conclude our project by consolidating all interpretations in a finite set of 
 20.	What is the shift in the state of terrorism in India?
 
 ### Contribution of each collaborator:
-<b>Tritika: </b> Region-wise analysis<br/>
-<b>[Vishal-rao](https://github.com/vishal-rao/GTD-EDA): </b> Attack-wise analysis<br/>
-<b>[VSManasi](https://github.com/VSManasi/Global-Terrorism-Database-EDA-project): </b> Gang-wise analysis<br/>
+<b>Tritika: </b> Region-wise analysis;Literature review;Report Writing<br/>
+<b>[Vishal-rao](https://github.com/vishal-rao/GTD-EDA): </b> Year-wise analysis;Data Collection;Research<br/>
+<b>[VSManasi](https://github.com/VSManasi/Global-Terrorism-Database-EDA-project): </b> Attack-wise analysis;Presentation<br/>
 
 ### Following were revealed as a result of our analysis:
 1. Regions Middle East & North Africa and South Asia have suffered brutally as a result increased bombings and explosions between 2010 and 2016.
